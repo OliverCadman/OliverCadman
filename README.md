@@ -17,7 +17,7 @@ You can reach me at **o.cadman@live.co.uk**
 # Let's do something!
 <p><a href="https://www.linkedin.com/in/oliver-cadman-23663b36/">Connect with me on LinkedIn</a>
 
-# Current Stack
+## Languages and Tools I'm Using
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="assets/images/html5logo.svg" alt="HTML5 Logo" width="40" height="40"></a>   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="assets/images/css3logo.svg" alt="CSS3 Logo" width="40" height="40"></a>    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="assets/images/javascriptlogo.svg" alt="JavaScript Logo" width="40" height="40"></a> <a href="https://reactjs.org/" target="_blank"><img src="assets/images/reactlogo.svg" alt="ReactJS Logo" width="40" height="40"></a>    <a href="https://code.visualstudio.com/" target="_blank"><img src="assets/images/visualstudio-code-logo.svg" alt="Visual Studio Code 2 Logo" width="40" height="40"></a>    <a href="https://git-scm.com/" target="_blank"><img src="assets/images/gitlogo.svg" alt="Git Logo" width="40" height="40"></a>  <a href="https://getbootstrap.com/" target="_blank"><img src="assets/images/bootstrap4.svg" alt="Bootstrap Logo" width="40" height="40"></a>    <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank"><img src="assets/images/adobe-illustrator-logo.svg" alt="Adobe Illustrator Logo" width="40" height="40"></a>   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank"><img src="assets/images/adobe-photoshop-logo.svg" alt="Abobe Photoshop Logo" width="40" height="40"></a>
 </p>
