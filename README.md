@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverCadman)](https://github.com/OliverCadmanS/github-readme-stats)
+![Oliver's Github Profile Views](https://komarev.com/ghpvc/?username=OliverCadman)
 
 
 <h1 align="center">Hey There :v:</h1>
