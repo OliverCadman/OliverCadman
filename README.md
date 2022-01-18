@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverCadman)](https://github.com/OliverCadmanS/github-readme-stats)
+
+
 <h1 align="center">Hey There :v:</h1>
 <h2 align="center">I'm Oliver Cadman. A professional musician and keen Full Stack Developer in Training.</h2>
 <p align="center">Passionate to build upon my skillset with each day, and to be creative with code!</p>
