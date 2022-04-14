@@ -9,7 +9,7 @@
 
 - :snake: Taking my first steps into the world of **Python**
 
-- :musical_keyboard: I've recently complete my final project for the Code Institute, and am waiting my final grade for the course. Check out my final project [DepT](https://dept-ci-ms4.herokuapp.com)!
+- :computer: I've recently completed my final project for the Code Institute, and am waiting my final grade for the course. Check out my final project [DepT](https://dept-ci-ms4.herokuapp.com)!
 
 - :handshake: Learning and using [ReactJS](https://reactjs.org/) to help to develop the Front-End for a matchmaking service to link up Investors and Startup Companies.
 
