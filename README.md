@@ -2,14 +2,12 @@
 
 
 <h1 align="center">Hey There :v:</h1>
-<h2 align="center">I'm Oliver Cadman. A professional musician and keen Full Stack Developer in Training.</h2>
+<h2 align="center">I'm Oliver Cadman. A keen, aspiring Junior Full-Stack Developer.</h2>
 <p align="center">Passionate to build upon my skillset with each day, and to be creative with code!</p>
 
-- :open_book: Currently working towards a Diploma in Full Stack Software Development with the **Code Institute**
+- :open_book: Recently graduated with Distinction from the **Code Institute**, with a Diploma in Software Development.
 
-- :snake: Taking my first steps into the world of **Python**
-
-- :computer: I've recently completed my final project for the Code Institute, and am waiting my final grade for the course. Check out my final project [DepT](https://dept-ci-ms4.herokuapp.com)!
+- :computer: Check out my latest project [DepT](https://dept-ci-ms4.herokuapp.com)! A community hub providing musicians with the ability to easily find cover for their gigs, and to earn more money!
 
 - :handshake: Learning and using [ReactJS](https://reactjs.org/) to help to develop the Front-End for a matchmaking service to link up Investors and Startup Companies.
 
