@@ -4,11 +4,13 @@
 <h1 align="center">Hey There :v:</h1>
 <h2 align="center">I'm Oliver Cadman, a Junior Full-Stack Developer.</h2>
 <p align="center">I'm passionate to build upon my skillset with each day, and to be creative with code!</p>
-
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/OliverCadman/OliverCadman/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png"></img>
-  <p>Currently working with Xander Talent as a Software Engineering Consultant.</p>
+  <br>
+  <h3>Currently working with Xander Talent as a Software Engineering Consultant.</h3>
 </div>
+<br>
 
 - :open_book: Recently graduated with Distinction from the **Code Institute**, with a Diploma in Software Development.
 
