@@ -2,14 +2,12 @@
 
 
 <h1 align="center">Hey There :v:</h1>
-<h2 align="center">I'm Oliver Cadman. A keen, aspiring Junior Full-Stack Developer.</h2>
-<p align="center">Passionate to build upon my skillset with each day, and to be creative with code!</p>
+<h2 align="center">I'm Oliver Cadman, a Junior Full-Stack Developer.</h2>
+<p align="center">I'm passionate to build upon my skillset with each day, and to be creative with code!</p>
+
+- :computer: Currently working with Xander Talent as a Software Engineering Consultant.
 
 - :open_book: Recently graduated with Distinction from the **Code Institute**, with a Diploma in Software Development.
-
-- :computer: Check out my latest project [DepT](https://dept-ci-ms4.herokuapp.com)! A community hub providing musicians with the ability to easily find cover for their gigs, and to earn more money!
-
-- :handshake: Learning and using [ReactJS](https://reactjs.org/) to help to develop the Front-End for a matchmaking service to link up Investors and Startup Companies.
 
 - :raising_hand_man: I'm a fervent empath, so please, ask me anything! I'm always keen to collaborate and learn to get a deeper understanding.
 
