@@ -6,7 +6,7 @@
 <p align="center">I'm passionate to build upon my skillset with each day, and to be creative with code!</p>
 
 <div align="center">
-  ![Xander Banner](https://github.com/OliverCadman/OliverCadman/blob/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png)
+  ![Xander Banner](https://github.com/OliverCadman/OliverCadman/blob/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png?raw=true)
   <p>Currently working with Xander Talent as a Software Engineering Consultant.</p>
 </div>
 
