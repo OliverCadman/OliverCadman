@@ -13,8 +13,9 @@
 
 - :art: Though I enjoy working on both the front and back end, I love creating generative art with code. There's a little taste of some motion graphics below.
 
-https://user-images.githubusercontent.com/79907183/203520846-e26bad3b-4542-4d2e-9b98-1cd6d3af3804.mp4
-
+<div class="center">S
+ https://user-images.githubusercontent.com/79907183/203523196-da52edc6-3c7d-46e3-9e29-8ba678fe230d.mp4
+</div>
 
 You can reach me at **o.cadman@live.co.uk**
 
