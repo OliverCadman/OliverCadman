@@ -11,6 +11,11 @@
 
 - :raising_hand_man: I'm a fervent empath, so please, ask me anything! I'm always keen to collaborate and learn to get a deeper understanding.
 
+- :art: Though I enjoy working on both the front and back end, I love creating generative art with code. There's a little taste of some motion graphics below.
+
+https://user-images.githubusercontent.com/79907183/203520846-e26bad3b-4542-4d2e-9b98-1cd6d3af3804.mp4
+
+
 You can reach me at **o.cadman@live.co.uk**
 
 # Let's do something!
