@@ -5,7 +5,10 @@
 <h2 align="center">I'm Oliver Cadman, a Junior Full-Stack Developer.</h2>
 <p align="center">I'm passionate to build upon my skillset with each day, and to be creative with code!</p>
 
-- :computer: Currently working with Xander Talent as a Software Engineering Consultant.
+<div align="center">
+  ![Xander Banner](https://github.com/OliverCadman/OliverCadman/blob/master/assets/images/LinkedIn%20Software%20%26%20Data%20Engineering.png)
+  <p>Currently working with Xander Talent as a Software Engineering Consultant.</p>
+</div>
 
 - :open_book: Recently graduated with Distinction from the **Code Institute**, with a Diploma in Software Development.
 
