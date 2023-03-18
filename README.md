@@ -28,6 +28,8 @@ https://user-images.githubusercontent.com/79907183/203523889-2863f50c-1f91-4700-
 
 You can reach me at **o.cadman@live.co.uk**
 
+[Check out my Codewars Stats](https://www.codewars.com/users/bella_pointa/stats)
+
 # Let's do something!
 <p><a href="https://www.linkedin.com/in/oliver-cadman-23663b36/">Connect with me on LinkedIn</a>
 
