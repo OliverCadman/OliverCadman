@@ -1,7 +1,7 @@
 ![Oliver's Github Profile Views](https://komarev.com/ghpvc/?username=OliverCadman)
 
 <a href="https://www.codewars.com/users/bella_pointa/" target="_blank">
-  <img src="https://www.codewars.com/users/bella_pointa/badges/small">
+  <img src="https://www.codewars.com/users/bella_pointa/badges/large">
 </a>
 
 <h1 align="center">Hey There :v:</h1>
